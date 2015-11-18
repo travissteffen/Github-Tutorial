@@ -1,3 +1,3 @@
 names(volcano)
 dim(volcano)
-summary(volcano)
+summary(volcano) 
